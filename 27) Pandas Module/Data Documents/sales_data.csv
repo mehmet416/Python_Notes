@@ -1,0 +1,4 @@
+OrderID,Product,Category,Price,Quantity,Discount,Date
+1001,Widget A,Electronics,25.99,3,0.1,2023-08-01
+1002,Widget B,Electronics,15.49,2,0.05,2023-08-02
+1003,Widget C,Electronics,10.99,5,0.0,2023-08-03
